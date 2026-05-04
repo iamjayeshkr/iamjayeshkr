@@ -122,8 +122,10 @@ AI productivity layer
 </td> </tr> </table>
 
 ## 📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iamjayeshkr&show_icons=true&theme=tokyonight" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamjayeshkr&theme=tokyonight" height="160"/> </div>
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=iamjayeshkr&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&v=3" height="160" />
+</p>
 
 ## 🎯 2026 Goals
 - 🚀 Become strong full-stack developer
