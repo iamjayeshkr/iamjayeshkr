@@ -1,156 +1,134 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4B0082&height=220&section=header&text=Jayesh%20Kumar&fontSize=60&fontAlignY=38&fontColor=ffffff&desc=Full%20Stack%20Builder%20⚡%20Shipping%20Real%20Products&descAlignY=60&descAlign=50&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:0d1117,100:0a0a0a&height=280&section=header&text=JAYESH%20KUMAR&fontSize=72&fontAlignY=45&fontColor=00FFD1&desc=Full%20Stack%20Builder%20%E2%80%A2%20BCA%20Student%20%E2%80%A2%20Shipping%20Real%20Products&descAlignY=65&descAlign=50&animation=twinkling&stroke=00FFD1&strokeWidth=2" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=750&height=60&lines=🚀+Full+Stack+Developer;📱+React+Native+%7C+Node.js+%7C+MongoDB;⚡+Builder+of+KRIYA+(Productivity+App);🧠+Learning+System+Design+%26+Scalable+Systems" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=iamjayeshkr&label=Profile%20Views&color=00d9ff&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/iamjayeshkr?label=Followers&style=for-the-badge&color=00d9ff" />
-<img src="https://img.shields.io/github/stars/iamjayeshkr?style=for-the-badge&color=00d9ff" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=16&duration=2500&pause=600&color=00FFD1&center=true&vCenter=true&width=700&height=45&lines=%E2%96%B8+React+Native+%7C+Node.js+%7C+MongoDB+%7C+Express;%E2%96%B8+Building+KRIYA+%E2%80%94+a+productivity+OS+for+humans;%E2%96%B8+BCA+%E2%86%92+Full+Stack+%E2%86%92+Placement+%E2%86%92+No+limits" />
 
 </div>
 
 ---
-
-## ⚡ About Me
-
-```js
-const Jayesh = {
-  role: "Full Stack Developer (in progress)",
-  education: "BCA Student",
-  focus: [
-    "React Native (Mobile Apps)",
-    "Node.js (Backend Systems)",
-    "MongoDB (Database Design)",
-    "DSA & Problem Solving"
-  ],
-  currentlyLearning: [
-    "Authentication Systems",
-    "System Design",
-    "Scalable Architecture"
-  ],
-  building: [
-    "KRIYA - Productivity App",
-    "Full-stack Projects",
-    "Real-world Apps"
-  ],
-  mindset: "Build > Talk | Consistency > Motivation"
-};
 
 ```
-## 🚀 Featured Project
-### 📱 KRIYA — Focus. Grow. Win.
+$ whoami
+> Jayesh Kumar. BCA student. Full-stack builder.
+> I don't consume tech — I ship with it.
+> Currently: making KRIYA the productivity app
+  people actually use instead of abandon after 3 days.
 
-##### A productivity app designed to help users actually take action, not just plan.
+$ status
+> [ ONLINE ] Building in public
+> [ ACTIVE ] Wiring backends at midnight
+> [ LOCKED ] Placement prep running in background
+> [ OPEN   ] For collabs that actually ship
+```
 
-##### 🔥 What it does:
+---
 
-- ⏱ Smart Pomodoro system
-- 🎯 Role-based experience (Student / Dev / Medical / Teacher)
-- 📊 Real progress tracking (sessions + focus time)
-- 🎨 Premium UI (Dark + Warm themes)
+## ◈ FLAGSHIP — KRIYA APP
 
-- 👉 Built to solve procrastination at the system level
+```
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│   K R I Y A ⚡  Focus. Grow. Win.                        │
+│   ──────────────────────────────────                     │
+│                                                          │
+│   A full-stack productivity system built to destroy      │
+│   procrastination at the architecture level.             │
+│                                                          │
+│   ◦ Smart Pomodoro engine                                │
+│   ◦ Role-based XP: Student / Dev / Medical / Teacher     │
+│   ◦ Real analytics — sessions, streaks, focus time       │
+│   ◦ Premium dark + warm UI system                        │
+│   ◦ Stack: React Native + Node.js + MongoDB              │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
 
-- 🔗 Repo: https://github.com/iamjayeshkr/Kriya-App
+---
 
-## 🛠️ Tech Stack
+## ◈ TECH STACK
 
 <div align="center">
 
-### 📱 Mobile Development
-<img src="https://skillicons.dev/icons?i=react,expo&theme=dark" />
-<br/>
-<b>React Native • Expo • NativeWind</b>
-
----
-
-### ⚙️ Backend & APIs
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
-<br/>
-<b>Node.js • Express • MongoDB • REST APIs</b>
-
----
-
-### 🔐 Authentication & Infra
-<img src="https://skillicons.dev/icons?i=firebase&theme=dark" />
-<br/>
-<b>Clerk • Auth Systems • JWT • Firebase</b>
-
----
-
-### 🚀 Tools & Monitoring
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
-<br/>
-<b>Git • GitHub • VS Code • Postman • Sentry</b>
-
----
-
-### 🧠 Core Programming
-<img src="https://skillicons.dev/icons?i=js,cpp,python&theme=dark" />
-<br/>
-<b>JavaScript • C++ • Python • DSA</b>
+| Layer | Tools |
+|---|---|
+| 📱 Mobile | React Native · Expo · NativeWind |
+| ⚙️ Backend | Node.js · Express · REST APIs |
+| 🗄️ Database | MongoDB · Database Design |
+| 🔐 Auth | Clerk · JWT · Firebase |
+| 🧠 Languages | JavaScript · C++ · Python |
+| 🛠 Tools | Git · Postman · VS Code · Sentry |
+| 📐 Learning | System Design · Scalable Architecture · DSA |
 
 </div>
 
-## 🧠 What I’m Building
-- 📱 Real-world mobile apps (React Native)
-- ⚡ Backend APIs (Node.js + MongoDB)
-- 🧩 Productivity system (KRIYA)
-- 🧠 System design fundamentals
+---
 
-## 🏆 Projects
-<table> <tr> <td width="50%">
-📱 KRIYA App
-Full-stack productivity system
-Focus + Analytics + UI
-</td> <td width="50%">
-🔐 Auth System
-JWT Authentication
-Secure login/signup
-</td> </tr> <tr> <td width="50%">
-🐍 Snake Game (C++)
-Logic building
-Arrays + loops mastery
-</td> <td width="50%">
-🚧 Upcoming
-Habit system
-Cloud sync
-AI productivity layer
-</td> </tr> </table>
+## ◈ WHAT BUILDING KRIYA TAUGHT ME
+> *Real lessons for anyone starting full-stack in 2026*
 
-## 📊 GitHub Stats
+**01 — Ship a broken v1 early.**
+You learn more from real usage than 3 weeks of planning. KRIYA's first version had no analytics — users told us we needed it.
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=iamjayeshkr&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&v=3" height="160" />
-</p>
+**02 — Auth is harder than it looks.**
+JWT expiry, refresh tokens, secure storage on mobile — budget 3× more time than you think.
 
-## 🎯 2026 Goals
-- 🚀 Become strong full-stack developer
-- 🧠 Master DSA
-- 💼 Crack placement
-- 📱 Launch production apps
-- 🇮🇳 CDS Preparation
+**03 — MongoDB schema decisions haunt you.**
+Think about your query patterns before inserting documents. Migrations are painful.
 
-## 🤝 Open to Collaboration
+**04 — NativeWind + Expo is the fastest mobile UI path.**
+Don't spend a week on custom StyleSheets when utility classes already exist.
 
-### I’m actively looking to collaborate on:
+**05 — DSA isn't separate from your work.**
+It's what makes your backend faster. Learn it in parallel, not after you feel "ready."
 
-- React Native apps
-- Backend systems
-- Open source projects
+---
 
-##### If you’re building something meaningful — let’s connect 👇
+## ◈ 2026 MISSION BOARD
 
-## 📬 Connect
+```
+[ ██████████░░░ ]  🚀  Full-stack mastery          72%
+[ ████████░░░░░ ]  🧠  DSA foundations              58%
+[ ███████░░░░░░ ]  📱  KRIYA to production          45%
+[ █████░░░░░░░░ ]  💼  Placement ready              38%
+[ ████░░░░░░░░░ ]  🇮🇳  CDS preparation              25%
+```
 
-- LinkedIn: https://www.linkedin.com/in/jayesh-kumar-b9ba33276/
-- GitHub: https://github.com/iamjayeshkr
+---
+
+## ◈ GITHUB SIGNAL
 
 <div align="center">
 
-🔥 “I don’t just learn tech — I build with it.”
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iamjayeshkr&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FFD1&icon_color=00FFD1&text_color=ffffff" />
+
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=iamjayeshkr&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FFD1&fire=00FFD1&currStreakLabel=00FFD1" />
+
+</div>
+
+---
+
+## ◈ THE MINDSET
+
+```
+Build > Talk
+Consistency > Motivation
+Ship > Perfect
+```
+
+---
+
+## ◈ OPEN TO COLLABORATE
+
+Building something that matters?
+React Native apps · Backend systems · Open source that ships.
+
+---
+
+<div align="center">
+
+*"Most people plan. I prefer to deploy."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
