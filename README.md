@@ -1,98 +1,137 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:0d1117,100:0a0a0a&height=280&section=header&text=JAYESH%20KUMAR&fontSize=72&fontAlignY=45&fontColor=00FFD1&desc=Full%20Stack%20Builder%20%E2%80%A2%20BCA%20Student%20%E2%80%A2%20Shipping%20Real%20Products&descAlignY=65&descAlign=50&animation=twinkling&stroke=00FFD1&strokeWidth=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:000000,50:0a0a0a,100:000000&height=260&section=header&text=JAYESH%20KUMAR&fontSize=58&fontAlignY=40&fontColor=39FF14&desc=%3E%20PLAYER_ONE%20%E2%80%94%20FULL%20STACK%20BUILDER.exe&descAlignY=62&descAlign=50&animation=twinkling" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=16&duration=2500&pause=600&color=00FFD1&center=true&vCenter=true&width=700&height=45&lines=%E2%96%B8+Next.js+%7C+Electron+%7C+Supabase+%7C+Local+AI;%E2%96%B8+Engineering+ThinkEra+%E2%80%94+a+DSA+learning+OS;%E2%96%B8+BCA+%E2%86%92+Full+Stack+%E2%86%92+Placement+%E2%86%92+No+limits" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=14&duration=3000&pause=700&color=39FF14&background=000000&center=true&vCenter=true&width=750&height=50&lines=LOADING+FULL+STACK+BUILDER...;BCA+STUDENT+%E2%80%A2+SHIPPING+REAL+PRODUCTS;PRESS+START+TO+CONTINUE" />
 
 </div>
 
 ---
 
 ```
-$ whoami
-> Jayesh Kumar. BCA student. Full-stack builder.
-> I don't consume tech — I ship with it.
-> Currently: engineering ThinkEra — a productivity
-  system built to give people their time back.
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+█ TERMINAL://whoami                          █
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-$ status
-> [ ONLINE ] Building in public
-> [ ACTIVE ] Wiring backends at midnight
-> [ LOCKED ] Placement prep running in background
-> [ OPEN   ] For collabs that actually ship
+> NAME ......... Jayesh Kumar
+> CLASS ........ Full-Stack Builder
+> GUILD ........ BCA Student
+> STATUS ....... [ONLINE] Building in public
+> QUOTE ........ "I don't consume tech — I ship with it."
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
 ---
 
-## ◈ FLAGSHIP — THINKERA
+## ▓▒░ CHARACTER STATS ░▒▓
 
 ```
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│   T H I N K E R A  ⚡  Learn DSA. Actually.             │
-│   ──────────────────────────────────────────             │
-│                                                          │
-│   A full-stack DSA learning platform that runs          │
-│   locally, thinks with AI, and ships as a desktop app.  │
-│                                                          │
-│   ◦ Monaco Editor — real code execution in-app          │
-│   ◦ Local AI via Ollama — no cloud, no latency          │
-│   ◦ AI reflection evaluator + solution generator        │
-│   ◦ Community posts, analytics, admin dashboard         │
-│   ◦ Ships as native desktop app via Electron            │
-│   ◦ Auth, DB, PDF export, 3D visuals — all wired        │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+LVL 1 BUILDER                          HP ████████████████░░░░ 80/100
+
+ STR (Frontend) ███████████████░░░░░  72%
+ INT (Backend)  ███████████░░░░░░░░░  58%
+ DEX (DSA)      ███████████░░░░░░░░░  58%
+ LUCK (Ship-it) ██████████████████░░  90%
+
+ XP TO NEXT LEVEL: [ Placement Ready ] ███████░░░░░░░░░░░░░  38%
 ```
 
 ---
 
-## ◈ TECH STACK
+## ▓▒░ MAIN QUEST: THINKERA ░▒▓
 
 <div align="center">
 
-| Layer | Tools |
-|---|---|
-| 🖥️ Framework | Next.js 14 · React 18 · TypeScript |
-| 🖱️ Desktop | Electron · electron-builder · auto-updater |
-| 🎨 UI & Styling | Tailwind CSS · Framer Motion · Lucide React |
-| 🧊 3D & Visuals | Three.js · React Three Fiber · Drei |
-| ✍️ Code Editor | Monaco Editor · React Resizable Panels |
-| 🗄️ Database | Supabase (PostgreSQL) |
-| 🔐 Auth | Clerk · JWT · bcryptjs · Webhooks (Svix) |
-| 🤖 AI Layer | Ollama (local) · Web LLM · Qwen 2.5 model |
-| 📊 Analytics | Recharts · date-fns · custom analytics API |
-| 📄 Export | jsPDF · html2canvas |
-| 📧 Email | EmailJS |
-| 🌐 Data Fetch | Axios · YouTube Data API |
-| 🧠 Validation | Zod · Zustand (state) · Lodash |
-| 🔧 Dev Tools | ESLint · TSX · Concurrently · Wait-on |
+```
+┌────────────────────────────────────────────────────┐
+│  ▓▓▓  T H I N K E R A  ▓▓▓                          │
+│  Learn DSA. Actually.                               │
+└────────────────────────────────────────────────────┘
+```
 
 </div>
 
----
+A full-stack DSA learning platform that runs locally, thinks with AI, and ships as a desktop app — no cloud dependency, no excuses.
 
-## ◈ WHAT BUILDING THINKERA TAUGHT ME
-> *Real lessons for anyone starting full-stack in 2026*
-
-**01 — Ship a broken v1 early.**
-You learn more from real usage than 3 weeks of planning. Features like the AI evaluator only made sense after seeing how people actually practiced.
-
-**02 — Local AI changes everything.**
-Running Ollama on-device means zero API costs, zero latency, zero privacy issues. If your app can run AI locally — do it.
-
-**03 — Electron is a superpower most devs ignore.**
-Your Next.js app can become a native desktop app for Mac, Windows and Linux. One codebase. Real installs. Real users.
-
-**04 — Schema design decisions haunt you.**
-Think about your Supabase query patterns before inserting a single row. Migrations mid-project are painful.
-
-**05 — DSA isn't separate from your work.**
-It's what makes your backend faster and your logic cleaner. Learn it while you build — not after you feel "ready."
+```
+[X] Monaco Editor — real code execution in-app
+[X] Local AI via Ollama — zero cloud, zero latency
+[X] AI reflection evaluator + solution generator
+[X] Community posts, analytics, admin dashboard
+[X] Ships as native desktop app via Electron
+[X] Auth, DB, PDF export, 3D visuals — all wired
+```
 
 ---
 
-## ◈ 2026 MISSION BOARD
+## ▓▒░ INVENTORY (TECH STACK) ░▒▓
+
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=39FF14)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=39FF14)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=39FF14)
+![Electron](https://img.shields.io/badge/Electron-000000?style=for-the-badge&logo=electron&logoColor=39FF14)
+
+![TailwindCSS](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=39FF14)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=39FF14)
+![Framer Motion](https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=39FF14)
+
+![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=39FF14)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=39FF14)
+![Clerk](https://img.shields.io/badge/Clerk-000000?style=for-the-badge&logo=clerk&logoColor=39FF14)
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=39FF14)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=39FF14)
+![Zod](https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=39FF14)
+
+</div>
+
+```
+░░ LAYER ░░░░░░░░░░░░░░░░░░░░░░ TOOLS ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+   Desktop ............ Electron · electron-builder · auto-updater
+   3D & Visuals ........ Three.js · React Three Fiber · Drei
+   Code Editor ......... Monaco Editor · React Resizable Panels
+   Auth ................ Clerk · JWT · bcryptjs · Svix Webhooks
+   AI Layer ............ Ollama (local) · Web LLM · Qwen 2.5
+   Analytics ........... Recharts · date-fns · custom API
+   Export .............. jsPDF · html2canvas
+   Email ............... EmailJS
+   Data Fetch .......... Axios · YouTube Data API
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
+
+---
+
+## ▓▒░ ACHIEVEMENTS UNLOCKED ░▒▓
+
+```
+🏆 SHIP A BROKEN V1 EARLY
+   You learn more from real usage than 3 weeks of planning.
+   Features like the AI evaluator only made sense after
+   watching real practice sessions.
+
+🏆 LOCAL AI CHANGES EVERYTHING
+   Ollama on-device = zero API cost, zero latency, zero
+   privacy leaks. If your app can run AI locally — do it.
+
+🏆 ELECTRON IS A CHEAT CODE
+   One Next.js codebase → native desktop installs on
+   Mac, Windows, Linux. Most devs sleep on this.
+
+🏆 SCHEMA DECISIONS HAUNT YOU
+   Map your Supabase query patterns before row #1.
+   Mid-project migrations are a boss fight nobody wants.
+
+🏆 DSA IS NOT A SIDE QUEST
+   It's what makes your backend faster and your logic
+   cleaner. Level it up while you build — not "when ready."
+```
+
+---
+
+## ▓▒░ MISSION BOARD — 2026 ░▒▓
 
 ```
 [ ██████████░░░ ]  🚀  Full-stack mastery          72%
@@ -104,39 +143,53 @@ It's what makes your backend faster and your logic cleaner. Learn it while you b
 
 ---
 
-## ◈ GITHUB SIGNAL
+## ▓▒░ GITHUB SIGNAL ░▒▓
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iamjayeshkr&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FFD1&icon_color=00FFD1&text_color=ffffff" />
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iamjayeshkr&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=ffffff" />
 
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=iamjayeshkr&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FFD1&fire=00FFD1&currStreakLabel=00FFD1" />
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=iamjayeshkr&theme=chartreuse-dark&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
 
 </div>
 
----
+<!--
+  OPTIONAL BONUS LEVEL — pixel snake eating your contribution graph.
+  Needs a small GitHub Action (platane/snk) on your repo to generate
+  the SVG below — drop this in once it's set up:
 
-## ◈ THE MINDSET
-
-```
-Build > Talk
-Consistency > Motivation
-Ship > Perfect
-```
+  <img src="https://raw.githubusercontent.com/iamjayeshkr/iamjayeshkr/output/github-contribution-grid-snake.svg" />
+-->
 
 ---
 
-## ◈ OPEN TO COLLABORATE
+## ▓▒░ THE MINDSET ░▒▓
 
+```
+> BUILD        >  TALK
+> CONSISTENCY  >  MOTIVATION
+> SHIP         >  PERFECT
+```
+
+---
+
+## ▓▒░ MULTIPLAYER MODE — OPEN TO COLLAB ░▒▓
+
+```
 Building something that matters?
 Next.js apps · Desktop tools · AI-powered products · Open source that ships.
+```
 
 ---
 
 <div align="center">
 
-*"Most people plan. I prefer to deploy."*
+```
+"Most people plan. I prefer to deploy."
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:0d1117&height=100&section=footer" width="100%"/>
+**[ INSERT COIN TO CONTINUE ]**
+
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:000000,100:0a0a0a&height=100&section=footer" width="100%"/>
 
 </div>
