@@ -1,98 +1,97 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a0a0a&height=180&section=header&text=JAYESH%20KUMAR&fontSize=42&fontAlignY=45&fontColor=ffffff&desc=full-stack%20engineer&descAlignY=65&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:101010,100:050505&height=190&section=header&text=JAYESH%20KUMAR&fontSize=43&fontAlignY=43&fontColor=ffffff&desc=systems%20over%20spectacle&descAlignY=64&descAlign=50&descSize=16" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1500&color=8B5CF6&center=true&vCenter=true&width=600&height=35&lines=builds+in+silence.+ships+without+noise." />
-
-</div>
-
-<br>
-
-```
-SYSTEM STATUS ........ ACTIVE
-SPECIALTY ............ FULL-STACK SYSTEMS, LOCAL-FIRST AI
-CURRENTLY ............ ENGINEERING THINKERA
-MODE .................. HEADS DOWN
-```
-
-<br>
-
-## ABOUT
-
-Final-year BCA student. Self-taught. No bootcamp, no mentor —
-just documentation, broken builds, and enough stubbornness to
-fix them at 2 AM.
-
-I don't talk about what I'm building. I ship it, then let it
-speak.
-
-<br>
-
-## THINKERA
-
-A full-stack DSA learning platform that runs locally, reasons
-with on-device AI, and ships as a native desktop app — not a
-web wrapper pretending to be one.
-
-```
-— Monaco-based in-browser code execution
-— Local inference via Ollama, zero cloud dependency
-— AI-driven reflection evaluator + solution generation
-— Auth, database, analytics, PDF export — fully wired
-— Packaged and distributed via Electron, cross-platform
-```
-
-<br>
-
-## STACK
-
-<div align="center">
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-000000?style=flat-square&logo=electron&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=4200&pause=1800&color=A78BFA&center=true&vCenter=true&width=680&height=34&lines=make+the+computer+do+less%2C+but+mean+more.;local-first+tools.+durable+systems.+quiet+craft." />
 
 </div>
 
 <br>
 
-## PRINCIPLES
+```text
+FIELD NOTES / 2026
+────────────────────────────────────────────────────────
+focus       building useful systems from first principles
+medium      full-stack applications · local AI · desktop software
+operating   learn in public, work with intent, ship with care
+```
 
-```
-01 — ship the broken version. real usage teaches more than planning.
-02 — if it can run locally, it should. cloud is a cost, not a default.
-03 — one codebase, every platform. electron is underused leverage.
-04 — schema decisions are permanent. think before the first insert.
-05 — dsa isn't separate from the work — it's why the work is fast.
-```
+## The short version
+
+Final-year BCA student and self-taught engineer. I like the part of software
+that comes before the polish: reducing a vague problem to a small, reliable
+system people can actually use.
+
+The goal is not more software. It is software that earns its place.
 
 <br>
 
-## ACTIVITY
+## In the workshop — Thinkera
+
+**Thinkera** is a local-first DSA learning environment designed to turn
+practice into a feedback loop, rather than another collection of solved
+problems.
+
+```text
+INPUT       a problem, an attempt, and an explanation
+PROCESS     code execution + local inference + reflection
+OUTPUT      clearer reasoning and the next useful step
+```
+
+<details>
+<summary><b>What it is built to do</b></summary>
+<br>
+
+- Give learners a focused place to write, run, and revisit solutions.
+- Use on-device AI through Ollama where privacy and offline use matter.
+- Package a single product for the desktop without splitting the experience.
+- Connect the unglamorous pieces—authentication, persistence, exports, and
+  analytics—so the product is complete, not just a demo.
+
+</details>
+
+<br>
+
+## Materials
 
 <div align="center">
 
-<img height="155em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iamjayeshkr&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=8B5CF6&text_color=cccccc" />
-
-<img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=iamjayeshkr&theme=dark&hide_border=true&background=00000000&ring=8B5CF6&fire=8B5CF6&currStreakLabel=ffffff" />
+![Next.js](https://img.shields.io/badge/Next.js-0B0B0B?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-0B0B0B?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B0B0B?style=flat-square&logo=typescript&logoColor=3178C6)
+![Electron](https://img.shields.io/badge/Electron-0B0B0B?style=flat-square&logo=electron&logoColor=9FEAF9)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0B0B0B?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B0B0B?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Supabase](https://img.shields.io/badge/Supabase-0B0B0B?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![Ollama](https://img.shields.io/badge/Ollama-0B0B0B?style=flat-square&logo=ollama&logoColor=white)
 
 </div>
 
 <br>
 
+## Working rules
+
+```text
+01  Start with the smallest honest version.
+02  Keep data close to the person who created it.
+03  Design the failure path before calling it finished.
+04  Prefer boring infrastructure and memorable product decisions.
+05  Leave the codebase easier to understand than it was yesterday.
+```
+
+<br>
+
+## Elsewhere in this repository
+
+This is a quiet shelf for experiments, notes, and prototypes. No dashboards,
+no counters, no performance theatre—just the things worth building.
+
+<br>
+
 <div align="center">
 
-```
-most people explain what they're building.
-i'd rather you just see it run.
-```
+<sub>One careful iteration at a time.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:000000&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:101010,100:050505&height=70&section=footer" width="100%" />
 
 </div>
